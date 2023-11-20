@@ -3,7 +3,7 @@ flask
 joblib
 scikit-learn
 Keras==2.2.0
-tensorflow==1.8.0
+tensorflow==1.13.1
 flask
 numpy
 pandas
