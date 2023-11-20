@@ -171,3 +171,14 @@ xlrd==2.0.1
 XlsxWriter==3.0.9
 yarl==1.8.2
 zipp==3.15.0
+numpy
+flask
+joblib
+scikit-learn
+Keras==2.2.0
+tensorflow==1.13.1
+flask
+numpy
+pandas
+Pillow==5.2.0
+gunicorn==18.0.0
